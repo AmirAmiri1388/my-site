@@ -1,0 +1,32 @@
+{
+    "site_title": "به سایت شخصی من خوش آمدید",
+    "welcome_text": "سلام! به سایت رسمی من خوش آمدید. در اینجا می‌توانید با پروژه‌ها، مقالات و سوابق کاری من آشنا شوید.",
+    "about_me": "من یک برنامه‌نویس و طراح وب هستم با تجربه در زمینه توسعه وبسایت‌های مدرن و کاربرپسند. هدف من ایجاد تجربه کاربری عالی و توسعه راهکارهای حرفه‌ای برای کسب‌وکارهاست.",
+    "resume_link": "https:\/\/drive.google.com\/file\/d\/1wyOXIM3HJmAhqaQO3THQfIsP0thR0aCx\/view?usp=drive_link",
+    "instagram_link": "https:\/\/instagram.com\/yourprofile",
+    "contact_email": "youremail@example.com",
+    "projects": [
+        {
+            "title": "پروژه 1:سایت شخصی",
+            "description": "طراحی پایه سایت شخصی با تارگت ساخت بدون هزینه و کد نویسی ",
+            "link": ""
+        },
+        {
+            "title": "پروژه دوم",
+            "description": "به زودی...",
+            "link": "#"
+        }
+    ],
+    "articles": [
+        {
+            "title": "مقاله1",
+            "content": "به زودی...",
+            "date": "1403\/02\/10"
+        },
+        {
+            "title": "مقاله2",
+            "content": "به زودی...",
+            "date": "1403\/02\/11"
+        }
+    ]
+}
